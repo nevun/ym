@@ -1,5 +1,5 @@
 extraction:
   python:
     prepare: 
-      packages: swig
+      packages: swig libpcsclite-dev
 
