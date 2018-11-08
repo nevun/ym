@@ -1,5 +1,7 @@
 extraction:
   python:
     prepare: 
-      packages: swig libpcsclite-dev
+      packages:
+	- swig
+	- libpcsclite-dev
 
